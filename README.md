@@ -1,0 +1,1 @@
+# agentic-IDE-comparison-with-GPT-5
